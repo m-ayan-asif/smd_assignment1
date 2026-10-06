@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.I221097_AyanAsif_Assignment1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+    </style>
+
+    <style name="spacing">
+        <item name="android:layout_margin">5dp</item>
+    </style>
+
+    <style name="Theme.I221097_AyanAsif_Assignment1" parent="Base.Theme.I221097_AyanAsif_Assignment1" />
+    <style name="Theme.SMD_Assignment1" parent="Theme.I221097_AyanAsif_Assignment1" />
+</resources>
